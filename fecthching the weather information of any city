@@ -30,3 +30,12 @@ if response.status_code == 200:
 else:
    # showing the error message
    print("Error in the HTTP request")
+
+
+output:
+
+----------Hyderabad-----------
+Temperature: 295.39
+Humidity: 83
+Pressure: 1019
+Weather Report: mist
